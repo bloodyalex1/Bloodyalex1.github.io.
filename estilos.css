@@ -1,0 +1,94 @@
+.HOJA_DE_VIDA {
+  text-align: center;
+  color : black; 
+  background-color: lightcyan;
+  text-decoration: underline;
+}
+.Carlos_Andres_Torres_Mesa {
+  text-align: center;
+  color : black;
+}
+.IMAGEN {
+  text-align: center;
+}
+.DATOS {
+  text-align: center;
+  
+}
+.DATOSCOLOR {
+  text-align: center;
+  color : black; 
+  background-color: lightcyan;
+  text-decoration: underline;
+}
+#.CONTENEDOR {
+  display: flex;
+  justify-content: space-between;      #ejemplo de texto a la izquierda y al frente
+  align-items: center;
+  width: 100%;
+}
+ #.IZQUIERDA {
+  text-align: left;     #ejemplo de texto a la izquierda y al frente
+}
+#.CENTRO {
+  margin: 0% auto;
+  text-align: center;    #ejemplo de texto a la izquierda y al frente
+  position: absolute;
+  left: 50%;
+}
+p {
+  text-align: center;
+}
+.ESTUDIOS {
+  text-align: center;
+  color: black;
+  background-color: lightcyan ;
+  text-decoration: underline;
+}
+.EXPERIENCIA_LABORAL {
+  text-align: center;
+  color: black;
+  background-color: lightcyan ;
+  text-decoration: underline;
+}
+.OBJETIVOS_PERSONAL {
+  text-align: center;
+  color: black;
+  background-color: lightcyan ;
+  text-decoration: underline;
+}
+.OBJETIVOS_LABORALES {
+    text-align: center;
+    color: black;
+    background-color: lightcyan ;
+    text-decoration: underline;
+  }
+.METAS_CORTO_PLAZO {
+    text-align: center;
+    color: black;
+    background-color: lightcyan ;
+    text-decoration: underline;
+  }
+  .METAS_MEDIANO_PLAZO {
+    text-align: center;
+    color: black;
+    background-color: lightcyan ;
+  }
+  .METAS_LARGO_PLAZO {
+    text-align: center;
+    color: black;
+    background-color: lightcyan ;
+    text-decoration: underline;
+  }
+  .HABILIDADES {
+    text-align: center;
+    color: black;
+    background-color: lightcyan ;
+    text-decoration: underline;
+  }
+.REFERENCIAS {
+    text-align: center;
+    color: black;
+    background-color: lightcyan ;
+    text-decoration: underline;
+  }
